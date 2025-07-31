@@ -6,6 +6,10 @@ metadata:
   annotations:
     github.com/project-slug: rcorozo/python-app
     backstage.io/techdocs-ref: dir:.
+  links:
+    - url: https://dashboard.example.com
+      title: My Dashboard
+      icon: dashboard
 spec:
   type: service
   owner: development
