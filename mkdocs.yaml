@@ -10,5 +10,6 @@ plugins:
 nav:
   - Overview:
       - Getting started: 'docs/index.md'
-  - What does it do: 'docs/app-goal.md'
+  - What does it do: 'docs/app-goals.md'
+
 
