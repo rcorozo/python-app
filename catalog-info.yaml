@@ -4,13 +4,13 @@ metadata:
   name: python-app
   description: Python app that displays time.
   annotations:
-    github.com/project-slug: rcorozo/python-app
+    github.com/project-slug: rcorozo/python-app # github repo path
     backstage.io/techdocs-ref: dir:.
   links:
     - url: https://dashboard.example.com
       title: My Dashboard
       icon: dashboard
 spec:
-  type: service
+  type: service # website or library
   owner: development
   lifecycle: experimental
